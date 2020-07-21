@@ -4,7 +4,7 @@ using System.Text;
 
 namespace MyDotNetBlog.Core.Objects
 {
-    class Category
+    class Tag
     {
         public virtual int Id
         { get; set; }
